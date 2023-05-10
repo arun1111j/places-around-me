@@ -42,3 +42,4 @@ Include your output screenshot here
 
 ## Result:
 Write your result
+he program for implementing image maps using HTML is executed successfully.
